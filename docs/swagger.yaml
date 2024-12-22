@@ -31,7 +31,7 @@ paths:
                 - owner
       responses:
         '200':
-          description: Successful response
+          description: Successful responses
         '400':
           description: Bad Request
         '401':
